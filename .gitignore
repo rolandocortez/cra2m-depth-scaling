@@ -32,8 +32,8 @@ pyvenv.cfg
 data/calib_imgs/*
 data/calib_results/*
 
-# Output files
-output/*
+# # Output files
+# output/*
 
 # models
 models/

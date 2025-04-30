@@ -169,7 +169,7 @@ pip install -r requirements.txt
 
 | Input RGB | Absolute Depth |
 |:---------:|:---------------:|
-| ![sample RGB](example_images/sample.png) | ![sample Depth](output/depth_map_vis.png) |
+| ![sample RGB](example_images/capture_0.png) | ![sample Depth](output/depth_map_vis.png) |
 
 ---
 
