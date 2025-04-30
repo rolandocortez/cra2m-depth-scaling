@@ -1,0 +1,50 @@
+# Python
+*.pyc
+*.pyo
+__pycache__
+
+# Virtual environment
+venv/
+env/
+.cra2m-depth-scaling/
+Include/
+Lib/
+Scripts/
+share/
+pyvenv.cfg
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Compiled files (for example, from PyInstaller, Cython, etc.)
+*.so
+*.dylib
+*.pyd
+
+# Logs
+*.log
+
+# Temporary files
+*.bak
+*.swp
+
+# Data files
+data/calib_imgs/*
+data/calib_results/*
+
+# Output files
+output/*
+
+# models
+models/
+
+# IDE and editor files (e.g., VSCode, PyCharm)
+.vscode/
+.idea/
+
+# System-specific files
+.DS_Store
+Thumbs.db
+
+# Old code folder (not necessary for the repo)
+old_codes/

@@ -1,0 +1,11 @@
+torch==2.4.1
+torchvision==0.19.1
+opencv-python==4.8.0.76
+opencv-contrib-python==4.5.5.62
+depthai==2.24.0.0
+timm==0.6.12
+einops==0.6.0
+imutils==0.5.4
+numpy==1.23.0
+screeninfo==0.8.1
+supervision==0.23.0
